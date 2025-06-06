@@ -31,7 +31,7 @@ Desenvolver um sistema que:
 
 O sistema usa um grafo orientado e ponderado, representando os pontos estratégicos da região. A imagem abaixo ilustra o mapa com os custos de deslocamento entre os pontos:
 
-![Mapa dos Grafos](Imagem%20Grafos.png)
+![Mapa dos Grafos](imagem_grafo/Imagem%20Grafos.png)
 
 ## 🛠️ Tecnologias e Conceitos Usados
 
